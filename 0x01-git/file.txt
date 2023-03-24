@@ -1,6 +1,3 @@
 This is some text.
 HEAD
-This is some conflicting text.
-This is some different text.
-anothet conflict
 feature-branch
